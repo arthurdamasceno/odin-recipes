@@ -1,1 +1,1 @@
-# odin-recipes
+Odin foundation html project: Build a basic recipe website using html.
